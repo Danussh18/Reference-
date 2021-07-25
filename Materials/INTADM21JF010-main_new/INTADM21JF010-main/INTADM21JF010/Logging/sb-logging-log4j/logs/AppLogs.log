@@ -1,0 +1,18 @@
+2021-06-08 12:54:29 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Starting SbLoggingApplication using Java 15.0.2 on SUNIL with PID 1820 (C:\Cognizant\INTADM21JF010\Logging\sb-logging\target\classes started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging) 
+2021-06-08 12:54:29 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : No active profile set, falling back to default profiles: default 
+2021-06-08 12:54:30 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Started SbLoggingApplication in 1.144 seconds (JVM running for 2.169) 
+2021-06-08 12:54:30 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 12:54:30 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 12:54:30 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : ---- inside static void main method --- 
+2021-06-08 12:59:47 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Starting SbLoggingApplication using Java 15.0.2 on SUNIL with PID 3136 (C:\Cognizant\INTADM21JF010\Logging\sb-logging-log4j\target\classes started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging-log4j) 
+2021-06-08 12:59:47 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : No active profile set, falling back to default profiles: default 
+2021-06-08 12:59:48 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Started SbLoggingApplication in 1.199 seconds (JVM running for 2.263) 
+2021-06-08 12:59:48 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 12:59:48 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 12:59:48 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : ---- inside static void main method --- 
+2021-06-08 13:01:30 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Starting SbLoggingApplication using Java 15.0.2 on SUNIL with PID 7664 (C:\Cognizant\INTADM21JF010\Logging\sb-logging-log4j\target\classes started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging-log4j) 
+2021-06-08 13:01:30 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : No active profile set, falling back to default profiles: default 
+2021-06-08 13:01:31 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Started SbLoggingApplication in 1.173 seconds (JVM running for 2.414) 
+2021-06-08 13:01:31 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 13:01:31 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 13:01:31 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : ---- inside static void main method --- 

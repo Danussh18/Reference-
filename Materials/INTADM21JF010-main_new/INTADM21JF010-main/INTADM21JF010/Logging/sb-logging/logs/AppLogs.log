@@ -1,0 +1,26 @@
+2021-06-08 12:54:29 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Starting SbLoggingApplication using Java 15.0.2 on SUNIL with PID 1820 (C:\Cognizant\INTADM21JF010\Logging\sb-logging\target\classes started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging) 
+2021-06-08 12:54:29 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : No active profile set, falling back to default profiles: default 
+2021-06-08 12:54:30 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : Started SbLoggingApplication in 1.144 seconds (JVM running for 2.169) 
+2021-06-08 12:54:30 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 12:54:30 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 12:54:30 [main] [INFO ] com.cognizant.logging.SbLoggingApplication : ---- inside static void main method --- 
+2021-06-08 18:21:56 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Starting SbLoggingApplicationTests using Java 15.0.2 on SUNIL with PID 7684 (started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging) 
+2021-06-08 18:21:56 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : No active profile set, falling back to default profiles: default 
+2021-06-08 18:22:00 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Started SbLoggingApplicationTests in 5.776 seconds (JVM running for 10.243) 
+2021-06-08 18:22:00 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 18:22:00 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 18:24:07 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Starting SbLoggingApplicationTests using Java 15.0.2 on SUNIL with PID 8168 (started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging) 
+2021-06-08 18:24:07 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : No active profile set, falling back to default profiles: default 
+2021-06-08 18:24:09 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Started SbLoggingApplicationTests in 2.553 seconds (JVM running for 4.802) 
+2021-06-08 18:24:09 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 18:24:09 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 18:35:54 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Starting SbLoggingApplicationTests using Java 15.0.2 on SUNIL with PID 9172 (started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging) 
+2021-06-08 18:35:54 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : No active profile set, falling back to default profiles: default 
+2021-06-08 18:35:55 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Started SbLoggingApplicationTests in 2.325 seconds (JVM running for 4.344) 
+2021-06-08 18:35:55 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 18:35:55 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
+2021-06-08 18:45:06 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Starting SbLoggingApplicationTests using Java 15.0.2 on SUNIL with PID 13220 (started by SUNIL in C:\Cognizant\INTADM21JF010\Logging\sb-logging) 
+2021-06-08 18:45:06 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : No active profile set, falling back to default profiles: default 
+2021-06-08 18:45:07 [main] [INFO ] com.cognizant.logging.SbLoggingApplicationTests : Started SbLoggingApplicationTests in 1.577 seconds (JVM running for 2.947) 
+2021-06-08 18:45:07 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state LivenessState changed to CORRECT 
+2021-06-08 18:45:07 [main] [INFO ] org.springframework.boot.availability.ApplicationAvailabilityBean : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC 
